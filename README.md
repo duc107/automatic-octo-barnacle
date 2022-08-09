@@ -21,6 +21,3 @@ $$ B = \left(\frac{2\sqrt{15}}{2\sqrt{3} - 1}\right) \left(\frac{2\sqrt{3} - 1}{
 $$ B = \frac{2\sqrt{15}}{\sqrt{15}} $$
 
 $$ B = 2 $$
-"# hmm" 
-# hmm
-# learncppbyduc107
