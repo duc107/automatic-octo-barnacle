@@ -4,9 +4,6 @@ $$ B = \left(\frac{\sqrt{5} + 1}{1 + \sqrt{5} + \sqrt{3}} + \frac{\sqrt{5} - 1}{
 
 > Solution
 
-| Name | op |
-|------|----|
-|Duck  |none|
 $$ B = \left(\frac{\sqrt{5} + 1}{1 + \sqrt{5} + \sqrt{3}} + \frac{\sqrt{5} - 1}{1 + \sqrt{3} - \sqrt{5}}\right)\left(\sqrt{3} - 4\left(\sqrt{\frac{1}{3}}\right) + 2\right) \cdot \sqrt{\frac{1}{5}} $$
 
 $$ B = \left(\frac{\sqrt{5} + \sqrt{15} - 5 + 1 + \sqrt{3} - \sqrt{5} + \sqrt{5} + 5 + \sqrt{15} - 1 - \sqrt{5} - \sqrt{3}}{(1 + \sqrt{3})^2 - 5}\right) \left(\sqrt{3}- 4\left(\sqrt{\frac{1}{3}}\right) + 2\right)\cdot \sqrt{\frac{1}{5}} $$
